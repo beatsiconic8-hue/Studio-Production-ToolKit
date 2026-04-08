@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Iconic Beats Lyrics Formatter",
+  "description": "A specialized tool for songwriters and producers to format lyrics with custom intros, outros, and production tags, featuring AI-generated vocal style suggestions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
